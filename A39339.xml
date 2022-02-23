@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon some passages in a book entituled The true nature of a gospel-church and its government written (as it is said by the publisher) by John Owen.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39339</idno>
+            <idno type="STC">Wing E663</idno>
+            <idno type="EEBO-CITATION">10268423</idno>
+            <idno type="OCLC">ocm 10268423</idno>
+            <idno type="VID">204617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204617)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1382:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon some passages in a book entituled The true nature of a gospel-church and its government written (as it is said by the publisher) by John Owen.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Edmund Elys.</note>
+                  <note>"Licensed, June the 10th. 1688."</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, John, 1616-1683. --  True nature of a gospel-church and its government.</term>
+               <term>Church of England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204617:1"/>
+            <pb n="11" facs="tcp:204617:1"/>
+            <p>Animadverſions Upon ſome Paſſages IN A BOOK, Entituled, THE True Nature OF A <hi>Goſpel-Church,</hi> And Its GOVERNMENT.</p>
+            <p>WRITTEN (As it is ſaid by the Publiſher) By <hi>Iohn Owen,</hi> D. D.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>June</hi> the 10<hi>th.</hi> 1688.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and are to be Sold by <hi>Richard Baldwin</hi> by the <hi>Oxford</hi>-Arms in <hi>Warwick-Lane,</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204617:2"/>
+            <pb n="1" facs="tcp:204617:2"/>
+            <head>ANIMADVERSIONS Upon ſome Paſſages IN A BOOK, Entituled, THE TRUE NATURE OF A Goſpel-Church, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>Beware of Falſe Prophets, which come to you in Sheeps Cloathing; but inwardly they are Ravening Wolves,</q>
+               <bibl>Mat. 7. 15.</bibl>
+            </epigraph>
+            <p>THat the great Name of Dr. <hi>Owen,</hi> may not beget a Prejudice in the Minds of any well-meaning Rea<g ref="char:EOLhyphen"/>ders, againſt what is here Writ<g ref="char:EOLhyphen"/>ten in Oppoſition to His <hi>Schiſmatical</hi> Con<g ref="char:EOLhyphen"/>ceits: I ſhall in the Firſt place Declare,
+<pb n="2" facs="tcp:204617:3"/> That I ſhall not <hi>Contract</hi> Him any far<g ref="char:EOLhyphen"/>ther, than where I am Confident to do; otherwiſe, would be to Contemn the Joynt. Authority of theſe bleſſed Men; which next to the <hi>Holy Apoſtles,</hi> deſerve the Cha<g ref="char:EOLhyphen"/>racter of the moſt Glorious <hi>Lights of the World;</hi> St. <hi>Ignatius,</hi> St. <hi>Irenaeus,</hi> St. <hi>Athana<g ref="char:EOLhyphen"/>ſius,</hi> St. <hi>Hilary,</hi> St. <hi>Baſil,</hi> St. <hi>Gregory Nazi<g ref="char:EOLhyphen"/>anzen,</hi> St. <hi>Gregory Nyſſen,</hi> St. <hi>Ambroſe,</hi> St. <hi>Chryſoſtome,</hi> St. <hi>Auguſtin.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 2. <q>Our Firſt Enquiry, ſays the Dr. Being concerning <hi>what ſort of Perſons,</hi> our Lord Jeſus Chriſt requireth, and admit<g ref="char:EOLhyphen"/>teth to be the <hi>Viſible Subjects</hi> of his King<g ref="char:EOLhyphen"/>dom, We are to be Regulated in our Determination, by Reſpect unto his Ho<g ref="char:EOLhyphen"/>nor, Glory, and the Holineſs of his Rule. To reckon ſuch Perſons to be Subjects of Chriſt, Members of his Body, ſuch as he Requires, and Owns, who would not be Tolerated, at leaſt not approv'd in a well Governed Kingdom, or Common<g ref="char:EOLhyphen"/>wealth of the World, is highly Diſho<g ref="char:EOLhyphen"/>nourable unto him. But it is ſo come to paſs, That let Men be never ſo no<g ref="char:EOLhyphen"/>toriouſly, and flagitiouſly wicked, un<g ref="char:EOLhyphen"/>til they become Peſts of the Earth; yet
+<pb n="3" facs="tcp:204617:3"/> are they Eſteem'd, to belong to the Church of Chriſt.</q>
+            </p>
+            <p>To this I anſwer, That our <hi>Saviour,</hi> Re<g ref="char:EOLhyphen"/>quires all Men to be of his <hi>Church,</hi> to ſubmit themſelves to his Diſcipline, and to Profeſs to all the World, that they do ſo, by being <hi>Baptiz'd in the the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi> Thoſe that are Baptized, He Requires by the Aſſi<g ref="char:EOLhyphen"/>ſtance of His Holy Spirit which He conti<g ref="char:EOLhyphen"/>nually <hi>Offers</hi> to them, to Act according to their Profeſſion, <hi>to Love the Lord their God, with all their Heart, and with all their Soul, and with all their Strength, and with all their Mind, and their Neighbour, as themſelves.</hi> He has not declared, That it is His Will, that <hi>Baptiſm</hi> ſhould be Deny'd to any Per<g ref="char:EOLhyphen"/>ſon, or that any one being Baptiz'd, ſhould be Depriv'd of the Priviledge of having External Communion with all True Chri<g ref="char:EOLhyphen"/>ſtians, but for ſuch Cauſes, which are Ex<g ref="char:EOLhyphen"/>preſt in the <hi>Canons, and Conſtitutions of the Church of</hi> England. Thoſe, who remain<g ref="char:EOLhyphen"/>ing in <hi>External Communion</hi> with the <hi>Church,</hi> have not the <hi>Habit,</hi> or <hi>Fixed Principle</hi> of Divine Love, in their Hearts. Our Bleſ<g ref="char:EOLhyphen"/>ſed <hi>Lord,</hi> doth not Own in ſuch a manner,
+<pb n="4" facs="tcp:204617:4"/> as to receive them into a <hi>State of Salva<g ref="char:EOLhyphen"/>tion;</hi> but He doth Own them, or Take them for His people upon this Account, That He Graciouſly Confers on them, in an a<g ref="char:EOLhyphen"/>bundant Meaſure, the Means of Knowing what they <hi>muſt do to be Saved.</hi> He does not Approve, or Take any Complacency in that Temper of Mind, or Spirit, which they are Actually in; but he is always <hi>Well<g ref="char:EOLhyphen"/>pleaſed</hi> with the <hi>Capacity,</hi> He has Graci<g ref="char:EOLhyphen"/>ouſly Endu'd them with all, of attaining to a Divine Temper; that is to ſay, Of be<g ref="char:EOLhyphen"/>ing <hi>Sanctified,</hi> or having their <hi>Wills</hi> United to the <hi>Will of God</hi> in all things. And He approves the <hi>Miniſters of the Goſpel,</hi> in the Adminiſtration of the Means of Grace, or Sanctification unto them, and in Praying for them.</p>
+            <p>
+               <hi>P.</hi> 15. <q>It muſt be remembred, That <hi>Communion with particular Churches,</hi> is to be Regulated abſolutely by <hi>Edification,</hi> No Man is, or can be Oblig'd to abide in, or confine himſelf unto the Communion of any particular Church any longer, than it is for his <hi>Edification.</hi>
+               </q>
+            </p>
+            <p>This is True, But from hence it is moſt
+<pb n="5" facs="tcp:204617:4"/> Evident, That thoſe Men are Guilty of moſt <hi>Abominable</hi> Iniquity, who Endeavour to Seduce any People from the Communion of the <hi>Church of England,</hi> in which the <hi>Fun<g ref="char:EOLhyphen"/>damental Articles</hi> of the Chriſtian Religion are ſo clearly, and fully Expreſt, and thoſe moſt Important Expreſſions ſo frequently Repeated; that Perſons <hi>of the loweſt Intel<g ref="char:EOLhyphen"/>lectuals,</hi> who do not <hi>Rebel againſt the Light,</hi> in frequenting our <hi>Religious Aſſemblies;</hi> may more eaſily attain to the Knowledge of all things that are Neceſſary to their Salvation, than by Hearing, or Reading the beſt Sermons, that have been, or ſhall be Preach't by any of the <hi>Non-conformiſts</hi> to the End of the World; which Aſſerti<g ref="char:EOLhyphen"/>on, is as Evident, as it is, That any <hi>Illi<g ref="char:EOLhyphen"/>terate</hi> Perſons, may more eaſily Meditate on Truths plainly Expreſt, and frequent<g ref="char:EOLhyphen"/>ly Suggeſted to their Remembrance, than <hi>Collect</hi> the ſame Truths out of divers large Diſcourſes, if they were therein <hi>Imply'd:</hi> So that, It can hardly be imagined, how any Man can be in any thing, more ſer<g ref="char:EOLhyphen"/>viceable to the <hi>Deſtroyer of Souls,</hi> than by Teaching People to <hi>Deſpiſe</hi> our <hi>Catechiſm</hi> and <hi>Common-Prayer.</hi> It is now Mani<g ref="char:EOLhyphen"/>feſt, and ſhall be ſo, to all Poſterity;
+<pb n="6" facs="tcp:204617:5"/> that the Multitude of theſe <hi>Deſpiſers,</hi> have Encourag'd the Profeſt Enemies of the <hi>Godhead</hi> of our Bleſſed Saviour, to Pub<g ref="char:EOLhyphen"/>liſh their <hi>Blaſphemies.</hi>
+            </p>
+            <p>
+               <hi>Ariſe O GOD, Plead thine own Cauſe: Remember how the Fooliſh Man, Blaſphemeth thee daily.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 20. <q>Few there are, who think that any Act, or Duty of their own, is Re<g ref="char:EOLhyphen"/>quir'd to Enſtate them in Church Order, and Relation.</q>
+            </p>
+            <p>Was there ever ſuch a notorious Falſe<g ref="char:EOLhyphen"/>hood, Publiſh't by any Learned Man, Pro<g ref="char:EOLhyphen"/>feſſing himſelf to be a Chriſtian! <hi>What ſhall be done unto thee, thou Falſe Tongue!</hi> Every Child that is Educated in the <hi>Church of England,</hi> can tell him this, That it is Requir'd of them that come to the Lords Supper. <q>To Examine themſelves whether they Repent them truly of their former ſins, ſtedfaſtly purpoſing to lead a new Life; have a Lively Faith in Gods Mercy through <hi>Chriſt,</hi> with a thankful Remembrance of his Death, and be in Charity with all Men.</q>
+            </p>
+            <pb n="7" facs="tcp:204617:5"/>
+            <p>
+               <hi>P.</hi> 28. <q>All this Authority, in, and over the Church, is veſted in <hi>Chriſt.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> True; But he Communicates His Authority, to be Exercis'd in Depen<g ref="char:EOLhyphen"/>dance upon Himſelf to thoſe, to whom by the <hi>Holy Apoſtle,</hi> He requires our O<g ref="char:EOLhyphen"/>bedience, <hi>Heb. 13. 17. Obey them that have the Rule over you.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 40. <q>Every individual Perſon hath the Liberty of his own Judgment, as unto his own Conſent, or Diſſent, in what he is himſelf concern'd.</q>
+            </p>
+            <p>To this I anſwer, That every Perſon who in Matters <hi>Spiritual</hi> or <hi>Eccleſiaſtical,</hi> Acts according to his own Private Judg<g ref="char:EOLhyphen"/>ment, <hi>viz.</hi> without a due Regard to the Judgment <hi>of them that have the Rule over him,</hi> Acts contrary to the <hi>Mind of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>P.</hi> 88. <q>If the World doth not dwell with Power <hi>in us,</hi> it will not paſs with Power <hi>from us.</hi>
+               </q>
+            </p>
+            <p>This is moſt horrible <hi>Falſe Doctrine,</hi> and of miſchievous Conſequence to the Souls
+<pb n="8" facs="tcp:204617:6"/> of Men, making them to Conceit, That the <hi>Efficacy of Sanctifying Truth,</hi> Depends upon the <hi>Sanctity</hi> of the Preacher, thus Aſſiſting the <hi>Devil</hi> in his Temptations in the Minds of the Hearers, wholly to Neglect, or to Leſſen their Attention to thoſe <hi>Sanctifying Truths,</hi> that come to their <hi>No<g ref="char:EOLhyphen"/>tice</hi> from the <hi>Tongues,</hi> or <hi>Pens</hi> of ſuch Perſons, whom (truly, or falſely) they ſuppoſe to be <hi>Irregular</hi> in their Lives; whereas we are Bound by our <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> to Love whatſoever is of GOD, in whomſoever we find it, from whomſoever we receive the <hi>Notice</hi> of it. This I con<g ref="char:EOLhyphen"/>ceive to be ſo plain a Truth, That there is no need I ſhould Inſiſt any longer on it, but only to beſeech the Chriſtian Rea<g ref="char:EOLhyphen"/>der, by the Mercies of God, by all the Love he bears to the Truth of the Goſ<g ref="char:EOLhyphen"/>pel; That he would <hi>Beware</hi> of the <hi>Sophi<g ref="char:EOLhyphen"/>ſtry</hi> of all ſorts of <hi>Schiſmaticks;</hi> And that he would be more Ardent in his Devo<g ref="char:EOLhyphen"/>tions, than ever yet he has been; Pray<g ref="char:EOLhyphen"/>ing thus with all True Chriſtians: <q>Give Grace, O Heavenly Father, to all Biſhops, and Curates, That they may both by their Life and Doctrine, ſet forth thy True and Lively Word,
+<pb n="9" facs="tcp:204617:6"/> and Rightly, and Duely Adminiſter thy Holy Sacraments.</q>
+            </p>
+            <p>We grant that our Communion with the <hi>Church-Catholick,</hi> Chiefly, and Prin<g ref="char:EOLhyphen"/>cipally, Conſiſts in this. <q>That we have all one, and the ſame God, and Father, (as Dr. <hi>Owen</hi> ſpeaks, <hi>pag.</hi> 242.) one Lord Jeſus Chriſt, one Faith, and one Doctrine of Faith, one Hope of our Calling, or the promis'd Inheritance, one Regeneration, one Baptiſm, one Bread and Wine; United unto God, and Chriſt in one Spirit, through the Bond of Faith, and Love. But then,</q> we Declare to all the World, That thoſe Perſons who own an Averſion from the Communion of the <hi>Church of England,</hi> are Guilty of a moſt Heinous Violation of the Bond of Chriſtian Love; and Se<g ref="char:EOLhyphen"/>parate themſelves from the <hi>Church-Catholick,</hi> in Separating from the <hi>Pub<g ref="char:EOLhyphen"/>lick-Worſhip</hi> of ſo Sound a Member of It; there being nothing Requir'd, as a Condition of this <hi>Communion,</hi> but to make <hi>Publick Confeſſion of that Faith, which was once Delivered to the Saints,</hi> (which none but the moſt Execrable ſort of He<g ref="char:EOLhyphen"/>reticks
+<pb n="10" facs="tcp:204617:7"/> can any way Diſguſt): And to Uſe thoſe Words in Publick Prayer, which are as certainly <hi>Expreſſive</hi> of the <hi>Power</hi> and <hi>Virtue</hi> of all Holy Deſires, as it is cer<g ref="char:EOLhyphen"/>tain that our Saviour is the <hi>Only Wiſe GOD;</hi> and to Receive the Bleſſed <hi>Eu<g ref="char:EOLhyphen"/>chariſt</hi> in both Kinds, according to Chriſt's Inſtitution, in ſuch a Poſture of the Body, as beſt ſuits with the Humility of a De<g ref="char:EOLhyphen"/>vout Soul, Adoring the Majeſty of Her Crucified Redeemer.</p>
+            <p>
+               <hi>P.</hi> 285. <q>Unto the Communion of all particular Churches in the World, there is nothing requir'd, but a Belief of the Scripture to be the Word of GOD, with a profeſſed Aſſent unto all Divine Relations therein contain'd.</q>
+            </p>
+            <p>To this I Anſwer, That ſince there ſprung up a ſort of Creatures, who pre<g ref="char:EOLhyphen"/>tend to Prove by Scripture, That our Bleſſed Saviour, is not the True, and E<g ref="char:EOLhyphen"/>ternal GOD; it became Neceſſary for the Conſervation of the <hi>Purity</hi> of Chriſti<g ref="char:EOLhyphen"/>an Communion, That all who Profeſs Chriſtianity, ſhould make <hi>Solemn Con<g ref="char:EOLhyphen"/>feſſion of their Faith</hi> in ſuch Terms, as
+<pb n="11" facs="tcp:204617:7"/> Manifeſt their Belief of this Fundamen<g ref="char:EOLhyphen"/>tal Truth, contain'd in the Holy Scrip<g ref="char:EOLhyphen"/>tures, That <hi>Jeſus Chriſt,</hi> is the True and Eternal GOD. This Aſſertion, Dr. <hi>Owen</hi> does in Effect, Conſent unto in theſe Words. <q>Altho' any Society of Men, ſhould Profeſs the Scripture to be the VVord of GOD, and avow an Aſſent to the Revelations made therein; yet by the Conceptions of their Minds, and miſ-underſtanding of the Senſe of the Holy Spirit therein, they may embrace, and adhere unto ſuch <hi>Errors,</hi> as may Cut them off from all Communion with the Catholick-Church in Faith.</q>
+            </p>
+            <p>Very well: But does it not follow from what he has here ſaid, That a Profeſſion of Belief, that the Scripture is the Word of GOD, <hi>&amp;c.</hi> is not ſufficient to Enſtate us in External Communion with the <hi>Church-Catholick,</hi> ſince ſome of the moſt horrid Enemies of the <hi>Church,</hi> make the ſame Profeſſion? My Charity prompts me to Believe, That if this Man had Lived to ſee <hi>Socinianiſm</hi> ſhew its Head amongſt us, as it does in theſe Days, it would have Frighted him into a better
+<pb facs="tcp:204617:8"/> Opinion of the <hi>Church of England.</hi>
+            </p>
+            <p>Here I ſhall moſt Earneſtly beſeech the Chriſtian Reader, ſeriouſly to Conſider, and with all his Heart, and with all his Strength, to Abhor, and Deteſt the <hi>Pha<g ref="char:EOLhyphen"/>natical Contempt</hi> of the <hi>Order</hi> of the Church of <hi>England,</hi> for the Uſe of the <hi>Lords-Prayer,</hi> ſince 'tis ſo Notorious, That it has been the Inducement to ſo many <hi>Blaſphemies.</hi> The Author of a Book, Entituled, <hi>Eſſays towards a Union between Divinity, and Morality,</hi> pag. 73. Deſpiſes the Order of our Church, for the fre<g ref="char:EOLhyphen"/>quent Uſe of this moſt Perfect Form of Prayer; and in the 84, and 85. <hi>pages,</hi> he openly <hi>Blaſphemes</hi> GOD <hi>the Son,</hi> and GOD <hi>the Holy Ghost.</hi> I will not here Re<g ref="char:EOLhyphen"/>cite the Words: But I ſhall moſt Ear<g ref="char:EOLhyphen"/>neſtly Beſeech all True Chriſtians, to uſe their utmoſt Endeavours, to procure ſuch a <hi>Mark</hi> of <hi>Infamy,</hi> to be fixt upon this moſt Execrable Book, which the <hi>Univer<g ref="char:EOLhyphen"/>ſity</hi> of <hi>Oxford</hi> has lately fixt upon the like <hi>Eſſay of Satanical</hi> Impudence.</p>
+            <p>I cannot but fore-ſee the manifold Ca<g ref="char:EOLhyphen"/>villations and Wranglings, that will be
+<pb facs="tcp:204617:8"/> raiſed againſt this Paper: But, Bleſſed be GOD, <hi>I fear not the Reproach of Men, nor am afraid of their Revilings:</hi> Daily, and Hourly, pondring in my Heart, the weighty Senſe of thoſe Sacred Words, <hi>Rev.</hi> 22. 20. <q>He which Teſtifieth theſe Things, ſaith, Surely I come quickly, <hi>Amen.</hi> Even ſo, <hi>Come Lord Jeſus.</hi>
+               </q>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
